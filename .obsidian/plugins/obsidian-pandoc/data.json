@@ -1,0 +1,15 @@
+{
+  "showCLICommands": true,
+  "addExtensionsToInternalLinks": "html",
+  "injectAppCSS": "light",
+  "injectThemeCSS": false,
+  "customCSSFile": null,
+  "displayYAMLFrontmatter": false,
+  "linkStrippingBehaviour": "text",
+  "highDPIDiagrams": true,
+  "pandoc": "C:\\Users\\21196\\AppData\\Local\\Programs\\Obsidian\\chajian\\pandoc-3.8.3",
+  "pdflatex": null,
+  "outputFolder": "C:\\Users\\21196\\Desktop\\乾坤\\pandac\\pandoc.exe",
+  "extraArguments": "C:\\Users\\21196\\Desktop\\乾坤\\附件",
+  "exportFrom": "md"
+}

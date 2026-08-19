@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "a73a205a0600a2a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a458db7bac4ff7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43596e1421bd9adb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1工作/8.19.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8.19"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "00539da1abdcb307",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ad9b572343d9dec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "787b07d7818ddbf2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "a9bd46962b64289d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "obsi",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "ec139af3b4970677",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 329.5
+  },
+  "right": {
+    "id": "4360739490bc6a67",
+    "type": "split",
+    "children": [
+      {
+        "id": "55e347f0c936479f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a1db6016c3f2ea1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1工作/8.19.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "8.19 的反向链接列表"
+            }
+          },
+          {
+            "id": "ba54fa7d413a1dca",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1工作/8.19.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "8.19 的出链列表"
+            }
+          },
+          {
+            "id": "88aeaf76bfe21843",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "34771b7bd54f77dc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "fef33a25e4d44ad7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1工作/8.19.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "8.19 的大纲"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "43596e1421bd9adb",
+  "lastOpenFiles": [
+    "index.md",
+    "index.txt",
+    "新建文本文档.txt",
+    "附件/Pasted image 20260819093028.png",
+    "工作/小米知识库/客户画像.md",
+    "1工作/8.19.md",
+    "obsidian使用指南/Markdown格式.md",
+    "obsidian使用指南/笔记.md",
+    "工作/小米知识库/知识库建立.md",
+    "附件/Pasted image 20260813150456.png",
+    "未命名.base",
+    "工作/小米知识库",
+    "工作/脚本",
+    "工作",
+    "未命名.md",
+    "附件/Pasted image 20260813112756.png",
+    "附件/Pasted image 20260813112717.png",
+    "附件/Pasted image 20260813112039.png",
+    "附件/Pasted image 20260813111830.png",
+    "附件/Pasted image 20260813111857.png",
+    "附件/Pasted image 20260813111742.png",
+    "附件/Pasted image 20260813111704.png",
+    "附件/Pasted image 20260813111540.png",
+    "无人机/飞控.md",
+    "1工作/4.30.md",
+    "2026-01-09.md",
+    "紫薇斗数/星系.md",
+    "唱歌/挤嗓.md",
+    "1工作",
+    "每日任务/4.1.md",
+    "每日任务",
+    "PCB制图/元器件及封装.md",
+    "PCB制图/工程的建立.md",
+    "无人机",
+    "工作/捷波治具制造/流程.md",
+    "PCB制图/原理图.md",
+    "工作/捷波治具制造",
+    "周易/未命名.md",
+    "周易/六十四卦象.md",
+    "未命名.canvas",
+    "欢迎.md",
+    "创建链接.md"
+  ]
+}

@@ -13,17 +13,26 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout 你的笔记仓库
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - uses: actions/setup-node@v4
+          path: vault
+      - name: 拉取官方Quartz源码
+        uses: actions/checkout@v4
         with:
-          node-version: 22
-      - name: Install dependencies
+          repository: jackyzha0/quartz
+          fetch-depth: 0
+          path: quartz-src
+      - name: 复制quartz核心文件到工作目录
+        run: |
+          cp -r quartz-src/* ./
+          cp -r vault/* ./content/
+      - name: 安装依赖
         run: npm ci
-      - name: Build Quartz
+      - name: 构建Quartz静态网页
         run: npx quartz build
-      - name: Upload artifact
+      - name: 上传产物
         uses: actions/upload-pages-artifact@v3
         with:
           path: public
@@ -34,6 +43,6 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Deploy to GitHub Pages
+      - name: 部署到Pages
         id: deployment
         uses: actions/deploy-pages@v4
